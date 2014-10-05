@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why can't C# become F#?"
-description: ""
+description: "Reasons why C# may never get some of the better features of F#."
 category: 
 tags: ['fsharp']
 ---
@@ -28,7 +28,7 @@ Here's a list I have started:
 More generally, it seems unlikey that C# would do this in the near future:
 
  * __Partial function application__ - Unsure - could this happen?
- * __Functions that don't require a class__ - C# is primarily OO - and the class is the basic building block. It seems like it would require a huge shift in thinking for this to happen.
+ * __Functions that don't require a class__ - C# is primarily OO - and the class is the basic building block. It seems like it would require a huge shift in thinking for this to happen. [Update] As a few people pointed out, this feature is either done, or [close to being done already](https://roslyn.codeplex.com/wikipage?title=Language%20feature%20status&referringTitle=Home)
  * __Computation Expressions__ - allowing features such as the very flexibile `async` workflows.
 
 
