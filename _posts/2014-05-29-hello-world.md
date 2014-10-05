@@ -2,16 +2,16 @@
 layout: post
 title: "hello world"
 description: ""
-category: 
+category: blog
 tags: []
 ---
 {% include JB/setup %}
 
 Hello, world.
 
-###csharp
+{% highlight csharp %}
 public static int Main(string[] args)
 {
 	return 0;
 }
-###
+{% endhighlight %}
