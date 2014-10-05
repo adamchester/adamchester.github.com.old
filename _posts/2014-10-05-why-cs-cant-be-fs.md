@@ -2,7 +2,7 @@
 layout: post
 title: "Why can't C# become F#?"
 description: ""
-category: fsharp
+category: 
 tags: ['fsharp']
 ---
 {% include JB/setup %}
